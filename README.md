@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ AbhilashBr987
-- 👀 I’m interested in Web Development , Software Development , AI/AL
+- 👀 I’m interested in Web Development , Software Development , AI/ML
 - 🌱 I’m currently learning Enginnering in ELctronics and Communication
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me - abhilashbr987@gmail.com
